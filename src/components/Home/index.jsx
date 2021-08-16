@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Brands from "../Brands/Brands";
+import Brands from "../Brands";
 
 class Home extends Component {
   constructor(props) {
@@ -37,7 +37,7 @@ class Home extends Component {
         },
         {
           id: 6,
-          name: "Alfa Romeo",
+          name: "Alfa-Romeo",
           imageUrl:
             "https://1000marcas.net/wp-content/uploads/2019/12/Alfa-Romeo-Logo-2000.jpg",
         },

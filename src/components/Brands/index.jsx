@@ -1,5 +1,5 @@
 import React from "react";
-import BrandItem from "../Branditem/BrandItem";
+import BrandItem from "../Branditem";
 import { makeStyles } from "@material-ui/core/styles";
 import Grid from "@material-ui/core/Grid";
 

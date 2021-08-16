@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <AppBar>
       <Toolbar>
-        <Typography variant="h6">Carros</Typography>
+        <Typography variant="h6">Cars App</Typography>
       </Toolbar>
     </AppBar>
   );
